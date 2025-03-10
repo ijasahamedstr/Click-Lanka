@@ -1,6 +1,6 @@
 {
     "builds": [
-      { "src": "App.jsx", "use": "@vercel/static" }
+      { "src": "index.html", "use": "@vercel/static" }
     ],
     "rewrites": [
       { "source": "/(.*)", "destination": "/" }
