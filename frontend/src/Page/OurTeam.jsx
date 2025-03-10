@@ -1,7 +1,4 @@
-import React, { useState } from 'react';
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+import React from 'react';
 
 function OurTeam() {
 

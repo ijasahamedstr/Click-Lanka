@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, CardMedia, Box, Typography } from '@mui/material';
+import { Card, CardMedia, Box } from '@mui/material';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Navigation, Pagination } from 'swiper/modules';
 import 'swiper/css';
